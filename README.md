@@ -7,5 +7,6 @@ $ npm install
 ## Get started
 
 ```bash
-$ npm start
+Run in package.json the script "start"
 ```
+*npm start
